@@ -1,3 +1,6 @@
+# ⚠ WARNIG ⚠:
+This repo is deprecate please refer to [sr.ht](https://git.sr.ht/~nik_codes/asteroid-vs-orbit)
+
 # Asteroid vs Orbit
 
 Small open source game in which you are a planet trying to end your orbit while dodging asteroids.
@@ -6,4 +9,4 @@ Small open source game in which you are a planet trying to end your orbit while 
 - Music.
 - Sound effect. 
 
-[itch](https://mateconbigotes.itch.io/asteroid-vs-orbit)
+[itch](https://nik-codes.itch.io/asteroid-vs-orbit)
